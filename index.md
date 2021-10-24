@@ -4,4 +4,4 @@
 
 ## Week 5
 
-[Fish Price Analyis](https://pjournal.github.io/mef05-merveirem/Assignment_W3)
+[Fish Price Analysis](https://pjournal.github.io/mef05-merveirem/Assignment_W3)
