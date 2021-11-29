@@ -10,4 +10,4 @@
 
 ## Week 3 - Assignment 3
 
-[Netflix Analysis](https://pjournal.github.io/mef05-merveirem/EDA_Netflix_2)
+[Netflix Analysis](https://pjournal.github.io/mef05-merveirem/EDA_Netflix_3)
