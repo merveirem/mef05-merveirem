@@ -11,3 +11,7 @@
 ## Week 3 - Assignment 3
 
 [Netflix Analysis](https://pjournal.github.io/mef05-merveirem/EDA_Netflix_3)
+
+## Group Project Page
+
+[Group Assignments](https://pjournal.github.io/mef05g-r-u-mine/)
